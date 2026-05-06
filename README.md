@@ -62,12 +62,18 @@
 <div align="center">
   <!-- Contribution Heatmap -->
   <img src="https://ghchart.rshah.org/2ca34e/BK-1107" width="100%" alt="GitHub Contributions" />
+</div>
+
+<br/>
+
+<div align="center">
 
 
 
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BK-1107&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&hide_border=true)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BK-1107&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&hide_border=true)
+</div>
 
 
 
