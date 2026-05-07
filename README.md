@@ -21,7 +21,7 @@
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" height="30px" style="vertical-align: middle;"/>
-  Skills & Tools
+  <p>Skills & Tools</p>
 </h2>
 
 
@@ -32,7 +32,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=39FF14&customColorList=12&height=3" width="100%" />
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px" height="30px" style="vertical-align: middle;"/>
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50px" height="30px" style="vertical-align: middle;"/>
   Community Stats
 </h2>
 
