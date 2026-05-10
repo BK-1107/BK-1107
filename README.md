@@ -13,9 +13,15 @@
 </p>
 
 <div align="center">
-  <h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" height="30" style="vertical-align: middle;"/> Thanks for visiting my GitHub profile!</h3>
+  <h3 align="center">
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" height="30" style="vertical-align: middle;"/>
+    <p>Thanks for visiting my GitHub profile!</p>
+  </h3>
 
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" style="vertical-align: middle;"/> Skills & Tools</h2>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" style="vertical-align: middle;"/>
+  <p>Skills & Tools</p>
+</h2>
 
 <div align="center">
   <!-- Skill Icons Matrix -->
