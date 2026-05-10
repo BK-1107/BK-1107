@@ -15,7 +15,7 @@
 <div align="center">
   <h3 align="center">
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" height="30" style="vertical-align: middle;"/>
-    Thanks for visiting my GitHub profile!
+    <p>Thanks for visiting my GitHub profile!</p>
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" style="vertical-align: middle;"/>
@@ -30,7 +30,7 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50" height="30" style="vertical-align: middle;"/>
-  Community Stats
+  <p>Community Stats</p>
 </h2>
 
 <div align="center">
@@ -42,12 +42,11 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BK-1107&theme=radical" width="33%" />
 <img src ="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BK-1107&theme=github_dark" width="33%">
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=39FF14&customColorList=12&height=3" width="100%" />
 
 <h2 align="center">
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" height="25" width="25" style="vertical-align: middle;" />
-  GitHub Activity
+  <p>GitHub Activity</p>
 </h2>
 
 <div align="center">
