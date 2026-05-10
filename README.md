@@ -13,14 +13,9 @@
 </p>
 
 <div align="center">
-  <h3 align="center">
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" height="30" style="vertical-align: middle;"/>
-    <p>Thanks for visiting my GitHub profile!</p>
+  <h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" height="30" style="vertical-align: middle;"/> Thanks for visiting my GitHub profile!</h3>
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" style="vertical-align: middle;"/>
-  <p>Skills & Tools</p>
-</h2>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" style="vertical-align: middle;"/> Skills & Tools</h2>
 
 <div align="center">
   <!-- Skill Icons Matrix -->
@@ -28,10 +23,7 @@
 </div>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=39FF14&customColorList=12&height=3" width="100%" />
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50" height="30" style="vertical-align: middle;"/>
-  <p>Community Stats</p>
-</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50" height="30" style="vertical-align: middle;"/> Community Stats</h2>
 
 <div align="center">
   <!-- Profile Summary Card -->
@@ -44,10 +36,7 @@
 </div>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=39FF14&customColorList=12&height=3" width="100%" />
 
-<h2 align="center">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" height="25" width="25" style="vertical-align: middle;" />
-  <p>GitHub Activity</p>
-</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" height="25" width="25" style="vertical-align: middle;" /> GitHub Activity</h2>
 
 <div align="center">
   <!-- Contribution Heatmap -->
