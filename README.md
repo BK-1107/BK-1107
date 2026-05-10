@@ -1,7 +1,6 @@
 <div align="center">
   <!-- Dynamic Header Banner - Tech Slice Style -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=92DE40&height=200&text=BK-1107&fontAlign=70&rotate=13&fontAlignY=25&desc=Driven%20by%20curiosity,%20built%20through%20iteration.&descAlign=63&descAlignY=44" />
-
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=92DE40&height=200&text=BK-1107&fontAlign=70&rotate=13&fontAlignY=25&desc=Driven%20by%20curiosity,%20built%20through%20iteration.&descAlign=63&descAlignY=44" width="100%" />
 
 <p>
      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -15,15 +14,13 @@
 
 <div align="center">
   <h3 align="center">
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle;"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" height="30" style="vertical-align: middle;"/>
     Thanks for visiting my GitHub profile!
 
-
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" height="30px" style="vertical-align: middle;"/>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" style="vertical-align: middle;"/>
   <p>Skills & Tools</p>
 </h2>
-
 
 <div align="center">
   <!-- Skill Icons Matrix -->
@@ -32,7 +29,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=39FF14&customColorList=12&height=3" width="100%" />
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50px" height="30px" style="vertical-align: middle;"/>
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50" height="30" style="vertical-align: middle;"/>
   Community Stats
 </h2>
 
@@ -40,15 +37,11 @@
   <!-- Profile Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BK-1107&theme=2077" width="100%" />
 
-
-
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BK-1107&theme=github_dark" width="33%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BK-1107&theme=radical" width="33%" />
 <img src ="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BK-1107&theme=github_dark" width="33%">
 </div>
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=39FF14&customColorList=12&height=3" width="100%" />
 
@@ -56,8 +49,6 @@
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" height="25" width="25" style="vertical-align: middle;" />
   GitHub Activity
 </h2>
-
-
 
 <div align="center">
   <!-- Contribution Heatmap -->
@@ -68,15 +59,9 @@
 
 <div align="center">
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BK-1107&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&hide_border=true)
 
-
-
-
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BK-1107&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&hide_border=true)
 </div>
-
-
-
 
 <div align="center">
   <!-- Dynamic Typing Quote -->
