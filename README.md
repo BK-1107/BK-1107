@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Header Banner - Tech Slice Style -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=92DE40&height=200&text=BK-1107&fontAlign=60&rotate=13&fontAlignY=30&desc=Driven%20by%20curiosity,%20built%20through%20iteration.&descAlign=55&descAlignY=48" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=92DE40&height=200&text=BK-1107&fontAlign=70&rotate=13&fontAlignY=25&desc=Driven%20by%20curiosity,%20built%20through%20iteration.&descAlign=63&descAlignY=44&width=1000" />
 
 <p>
      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
