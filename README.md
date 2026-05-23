@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
     <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
     <img src="https://img.shields.io/github/followers/BK-1107?style=for-the-badge&color=blueviolet&v=99" alt="关注者" />
-    <img src="https://img.shields.io/github/stars/BK-1107?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="星标" /> 
+    <img src="https://img.shields.io/github/stars/BK-1107?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="星标" />
 </p>
 
 <div align="center">
