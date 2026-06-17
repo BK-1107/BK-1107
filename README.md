@@ -14,9 +14,9 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=39FF14&customColorList=12&height=3" width="100%" />
 
 <p align="center">
-  <img src="./assets/skills-grid.svg" width="50%" align="middle" alt="Skills Grid" />
-  <img src="./assets/vertical-divider.svg" width="2%" align="middle" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BK-1107&theme=github" width="44%" align="middle" alt="Language Stats" />
+  <img src="./assets/skills-grid.svg" width="46%" align="middle" alt="Skills Grid" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BK-1107&theme=github" width="40%" align="middle" alt="Language Stats" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=39FF14&customColorList=12&height=3" width="100%" />
