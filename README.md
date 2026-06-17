@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
     <img src="https://img.shields.io/github/stars/BK-1107?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="星标" />
 </p>
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28" valign="middle" /> Thanks for visiting my GitHub profile!
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28" valign="middle" /> <span style="font-size: 24px; font-weight: 700;">Thanks for visiting my GitHub profile!</span>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=39FF14&customColorList=12&height=3" width="100%" />
 
