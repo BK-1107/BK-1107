@@ -23,21 +23,20 @@
   <p>Skills & Tools</p>
 </h2>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://skillicons.dev/icons?i=python,go,java,js,ts,react,nodejs,fastapi,spring,pytorch,anaconda,mysql,postgres,redis,kafka,rabbitmq,gcp,docker,githubactions,cloudflare,nginx,linux,git,github,postman,vscode,figma,ps,ai,pr,obsidian,&perline=9" />
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BK-1107&theme=github" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- Skill Icons Matrix -->
+  <img src="https://skillicons.dev/icons?i=python,go,java,js,ts,react,nodejs,fastapi,spring,pytorch,anaconda,mysql,postgres,redis,kafka,rabbitmq,gcp,docker,githubactions,cloudflare,nginx,linux,git,github,postman,vscode,figma,ps,ai,pr,obsidian,&perline=9" />
+</div>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=39FF14&customColorList=12&height=3" width="100%" />
 
 <h2 align="center"><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50" height="30" style="vertical-align: middle;"/> Community Stats</h2>
 
 <div align="center">
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BK-1107&theme=2077" width="100%" />
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BK-1107&theme=github_dark" width="33%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BK-1107&theme=radical" width="33%" />
 <img src ="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BK-1107&theme=github_dark" width="33%">
 </div>
