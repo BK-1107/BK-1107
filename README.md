@@ -8,17 +8,17 @@
     <a href="https://bk-1107.com/about/"><img src="https://img.shields.io/badge/About%20Me-2CA34E?style=for-the-badge&logo=github&logoColor=white" alt="About Me" /></a>
     <img src="https://img.shields.io/github/stars/BK-1107?style=for-the-badge&color=2CA34E&labelColor=141321" alt="星标" />
 </p>
-<p align="center">
+<div align="center">
   <img src="./assets/greeting.svg" />
-</p>
+</div>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=39FF14&customColorList=12&height=3" width="100%" />
 <br>
 <br> 
-<p align="center">
+<div align="center">
   <img src="./assets/skills-grid.svg" width="48%" align="middle" alt="Skills Grid" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BK-1107&theme=github" width="44%" align="middle" alt="Language Stats" />
-</p>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=39FF14&customColorList=12&height=3" width="100%" />
 
