@@ -8,7 +8,9 @@
     <a href="https://bk-1107.com/about/"><img src="https://img.shields.io/badge/About%20Me-2CA34E?style=for-the-badge&logo=github&logoColor=white" alt="About Me" /></a>
     <img src="https://img.shields.io/github/stars/BK-1107?style=for-the-badge&color=2CA34E&labelColor=141321" alt="星标" />
 </p>
-    <span style="font-size: 24px; font-weight: 700;">👋 Hello, I'm Novarisea (BK-1107)  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=40&pause=1000&color=000000&center=true&vCenter=true&width=900&height=70&repeat=false&lines=%F0%9F%91%8B+Hello%2C+I'm+Novarisea+(BK-1107)" />
+</p>
 </span>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=39FF14&customColorList=12&height=3" width="100%" />
